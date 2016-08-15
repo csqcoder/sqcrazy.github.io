@@ -10,7 +10,7 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          https://blog.csdn.net/qq_22854687
+    url:          http://blog.csdn.net/qq_22854687
     external:     true
   - name:         GitHub
     url:          https://github.com/sqCrazy
